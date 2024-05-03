@@ -1,6 +1,14 @@
 # Slack_Chatbot
-
+This bot can engage with Slack users within a specific company and provide responses to inquiries about company policies.
 This guide provides step-by-step instructions to integrate a chatbot with Slack using ngrok for local testing.
+
+## Video Demo
+
+
+
+https://github.com/svk-cu-nlp/SlackBot/assets/96056131/7713aaaa-f7af-4904-9e4c-c085a121fc3e
+
+
 
 ## Slack Chatbot Creation
 Go to [Slack APP Dashboard](https://api.slack.com/apps/) Follow the documentation to create the App.
