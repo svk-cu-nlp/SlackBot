@@ -1,0 +1,10 @@
+chromadb
+huggingface_hub 
+tiktoken
+InstructorEmbedding 
+sentence_transformers
+langchain
+unstructured[pdf]
+pypdf
+openai
+langchain-openai
